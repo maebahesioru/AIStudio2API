@@ -15,9 +15,9 @@ dependencies = [
     "uvloop; sys_platform != 'win32'",
     "playwright==1.48.0",
     "camoufox[geoip]==0.4.11",
-    "cryptography==42.0.5",
+    "cryptography==46.0.7",
     "aiohttp>=3.9.5",
-    "requests==2.31.0",
+    "requests==2.32.5",
     "pyjwt==2.8.0",
     "aiosocks~=0.2.6",
     "python-socks~=2.7.1"
